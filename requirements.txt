@@ -7,12 +7,13 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
+httpx[http2]
 motor
 pillow
 psutil
 py-tgcalls==0.9.7
 pykeyboard
-pyrofork
+pyrogram==2.0.106
 python-dotenv
 pyyaml
 requests
